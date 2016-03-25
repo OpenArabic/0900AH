@@ -1,4 +1,4 @@
-# 0900AH [[ [Re]generated on 2016-03-25 (13:29:18) ]]
+# 0900AH [[ [Re]generated on 2016-03-25 (13:57:37) ]]
 
 * `0808IbnKhaldun.Muqaddima (TAGS: CHR)`
 * `0832AbuTayyibFasi.DhaylTaqyid (TAGS: ...)`
@@ -20,4 +20,5 @@
 * `0874IbnTaghribirdi.NujumZahira (TAGS: ...)`
 * `0879IbnQutlubugha.Thiqat (TAGS: ...)`
 * `0884IbnMuflih.MaqsidArshad (TAGS: ...)`
+* `0884SibtIbnCajami.KunuzDhahab (TAGS: ...)`
 * `0900AbuCabdAllahHimyari.RawdMictar (TAGS: GEO,COL)`
