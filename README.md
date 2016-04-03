@@ -1,7 +1,9 @@
-# 0900AH [[ [Re]generated on 2016-04-03 (03:56:27) ]]
+# 0900AH [[ [Re]generated on 2016-04-03 (19:29:22) ]]
 
+* `0804IbnMulaqqin.TabaqatAwliya (TAGS: ...)`
 * `0808IbnKhaldun.Muqaddima (TAGS: CHR)`
 * `0809IbnQunfudh.Wafayat (TAGS: ...)`
+* `0812CaliKhazraji.CuqudLuluiyya (TAGS: ...)`
 * `0832AbuTayyibFasi.DhaylTaqyid (TAGS: ...)`
 * `0832AbuTayyibFasi.ShifaGharam (TAGS: ...)`
 * `0833IbnJazari.GhayaNihaya (TAGS: ...)`
@@ -16,6 +18,7 @@
 * `0852IbnHajarCasqalani.RafcCisr (TAGS: ...)`
 * `0852IbnHajarCasqalani.TahdhibTahdhib (TAGS: ...)`
 * `0852IbnHajarCasqalani.TaqribTahdhib (TAGS: ...)`
+* `0855Cayni.CiqdJuman (TAGS: ...)`
 * `0855Cayni.CumdaQari (TAGS: ...)`
 * `0855Cayni.MaghaniAkhyar (TAGS: ...)`
 * `0874IbnTaghribirdi.ManhalSafi (TAGS: ...)`
