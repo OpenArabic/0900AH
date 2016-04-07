@@ -1,4 +1,4 @@
-# 0900AH [[ [Re]generated on 2016-04-06 (07:40:52) ]]
+# 0900AH [[ [Re]generated on 2016-04-07 (08:25:57) ]]
 
 * `0804IbnMulaqqin.TabaqatAwliya (TAGS: ...)`
 * `0808IbnKhaldun.Tarikh (TAGS: CHR)`
@@ -9,7 +9,6 @@
 * `0832AbuTayyibFasi.DhaylTaqyid (TAGS: ...)`
 * `0832AbuTayyibFasi.ShifaGharam (TAGS: ...)`
 * `0833IbnJazari.GhayaNihaya (TAGS: ...)`
-* `0841SibtIbnCajami.KashfHathith (TAGS: ...)`
 * `0842IbnNasirDinDimashqi.TawdihMushtabih (TAGS: ...)`
 * `0845Maqrizi.IqazHunafa (TAGS: ...)`
 * `0845Maqrizi.Mawaciz (TAGS: ...)`
@@ -19,19 +18,26 @@
 * `0852IbnHajarCasqalani.DurarKamina (TAGS: BIO,COL)`
 * `0852IbnHajarCasqalani.InbaGhumr (TAGS: ...)`
 * `0852IbnHajarCasqalani.IsabaFiTamyiz (TAGS: ...)`
+* `0852IbnHajarCasqalani.ItharBiMacrifa`
 * `0852IbnHajarCasqalani.LisanMizan (TAGS: BIO,COL)`
 * `0852IbnHajarCasqalani.NuzhaAlbab (TAGS: ...)`
 * `0852IbnHajarCasqalani.RafcCisr (TAGS: ...)`
+* `0852IbnHajarCasqalani.TabaqatMudallisin (TAGS: BIO,COL)`
 * `0852IbnHajarCasqalani.TacjilManfaca (TAGS: ...)`
 * `0852IbnHajarCasqalani.TahdhibTahdhib (TAGS: ...)`
 * `0852IbnHajarCasqalani.TaqribTahdhib (TAGS: ...)`
 * `0855Cayni.CiqdJuman (TAGS: ...)`
 * `0855Cayni.CumdaQari (TAGS: ...)`
 * `0855Cayni.MaghaniAkhyar (TAGS: ...)`
+* `0871IbnFahdMakki.LahzAlhaz (TAGS: BIO,...)`
 * `0874IbnTaghribirdi.ManhalSafi (TAGS: ...)`
+* `0874IbnTaghribirdi.MawridLatafa (TAGS: ...)`
 * `0874IbnTaghribirdi.NujumZahira (TAGS: ...)`
 * `0879IbnQutlubugha.TajTarajim (TAGS: ...)`
 * `0879IbnQutlubugha.Thiqat (TAGS: ...)`
+* `0881SibtIbnCajami.KashfHathith (TAGS: ...)`
 * `0884IbnMuflih.MaqsidArshad (TAGS: ...)`
+* `0884SibtIbnCajami.Ightibat (TAGS: ...)`
 * `0884SibtIbnCajami.KunuzDhahab (TAGS: ...)`
+* `0884SibtIbnCajami.TabyinLiAsma (TAGS: ...)`
 * `0900AbuCabdAllahHimyari.RawdMictar (TAGS: GEO,COL)`
