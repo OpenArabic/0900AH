@@ -1,6 +1,7 @@
-# 0900AH [[ [Re]generated on 2016-04-08 (17:51:53) ]]
+# 0900AH [[ [Re]generated on 2016-04-08 (18:20:49) ]]
 
 * `0804IbnMulaqqin.TabaqatAwliya (TAGS: ...,PPE)`
+* `0806IbnHusaynCiraqi.DhaylMizan (TAGS: ...,BIO,PPE)`
 * `0808IbnKhaldun.Tarikh (TAGS: CHR,PPE)`
 * `0809IbnQunfudh.Wafayat (TAGS: ...,PPE)`
 * `0812CaliKhazraji.CuqudLuluiyya (TAGS: ...,PPE)`
