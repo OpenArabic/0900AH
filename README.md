@@ -1,4 +1,4 @@
-# 0900AH [[ [Re]generated on 2016-04-08 (15:25:58) ]]
+# 0900AH [[ [Re]generated on 2016-04-08 (17:51:53) ]]
 
 * `0804IbnMulaqqin.TabaqatAwliya (TAGS: ...,PPE)`
 * `0808IbnKhaldun.Tarikh (TAGS: CHR,PPE)`
@@ -24,6 +24,7 @@
 * `0852IbnHajarCasqalani.NuzhaAlbab (TAGS: ...,PPE)`
 * `0852IbnHajarCasqalani.RafcCisr (TAGS: ...,PPE)`
 * `0852IbnHajarCasqalani.TabaqatMudallisin (TAGS: BIO,COL,PPE)`
+* `0852IbnHajarCasqalani.TabsirMuntabih (TAGS: ...,PPE)`
 * `0852IbnHajarCasqalani.TacjilManfaca (TAGS: ...,PPE)`
 * `0852IbnHajarCasqalani.TahdhibTahdhib (TAGS: ...,PPE)`
 * `0852IbnHajarCasqalani.TaqribTahdhib (TAGS: ...,PPE)`
@@ -36,9 +37,9 @@
 * `0874IbnTaghribirdi.NujumZahira (TAGS: ...,PPE)`
 * `0879IbnQutlubugha.TajTarajim (TAGS: ...,PPE)`
 * `0879IbnQutlubugha.Thiqat (TAGS: ...,PPE)`
-* `0881SibtIbnCajami.KashfHathith (TAGS: ...,PPE)`
 * `0884IbnMuflih.MaqsidArshad (TAGS: ...,PPE)`
 * `0884SibtIbnCajami.Ightibat (TAGS: ...,PPE)`
+* `0884SibtIbnCajami.KashfHathith (TAGS: ...,PPE)`
 * `0884SibtIbnCajami.KunuzDhahab (TAGS: ...,PPE)`
 * `0884SibtIbnCajami.TabyinLiAsma (TAGS: ...,PPE)`
 * `0900AbuCabdAllahHimyari.RawdMictar (TAGS: GEO,COL,PPE)`
