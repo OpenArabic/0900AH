@@ -1,4 +1,4 @@
-# 0900AH [[ [Re]generated on 2016-04-09 (16:54:56) ]]
+# 0900AH [[ [Re]generated on 2016-04-09 (18:07:22) ]]
 
 * `0804IbnMulaqqin.TabaqatAwliya (TAGS: ...,PPE)`
 * `0806IbnHusaynCiraqi.DhaylMizan (TAGS: ...,BIO,PPE)`
@@ -24,8 +24,9 @@
 * `0852IbnHajarCasqalani.DurarKamina (TAGS: BIO,COL,PPE)`
 * `0852IbnHajarCasqalani.InbaGhumr (TAGS: ...,PPE)`
 * `0852IbnHajarCasqalani.IsabaFiTamyiz (TAGS: ...,PPE)`
-* `0852IbnHajarCasqalani.ItharBiMacrifa`
+* `0852IbnHajarCasqalani.ItharBiMacrifa (TAGS: ...,PPE)`
 * `0852IbnHajarCasqalani.LisanMizan (TAGS: BIO,COL,PPE)`
+* `0852IbnHajarCasqalani.MucjamMufahras (TAGS: ...,PPE)`
 * `0852IbnHajarCasqalani.NuzhaAlbab (TAGS: ...,PPE)`
 * `0852IbnHajarCasqalani.RafcCisr (TAGS: ...,PPE)`
 * `0852IbnHajarCasqalani.TabaqatMudallisin (TAGS: BIO,COL,PPE)`
@@ -38,6 +39,7 @@
 * `0855Cayni.CumdaQari (TAGS: ...,PPE)`
 * `0855Cayni.MaghaniAkhyar (TAGS: ...,PPE)`
 * `0871IbnFahdMakki.LahzAlhaz (TAGS: BIO,...,PPE)`
+* `0874IbnTaghribirdi.HawadithDahriya (TAGS: ...,PPE)`
 * `0874IbnTaghribirdi.ManhalSafi (TAGS: ...,PPE)`
 * `0874IbnTaghribirdi.MawridLatafa (TAGS: ...,PPE)`
 * `0874IbnTaghribirdi.NujumZahira (TAGS: ...,PPE)`
