@@ -1,11 +1,15 @@
-# 0900AH [[ [Re]generated on 2016-04-08 (18:20:49) ]]
+# 0900AH [[ [Re]generated on 2016-04-09 (16:54:56) ]]
 
 * `0804IbnMulaqqin.TabaqatAwliya (TAGS: ...,PPE)`
 * `0806IbnHusaynCiraqi.DhaylMizan (TAGS: ...,BIO,PPE)`
+* `0807IbnAhmarKhazraji.NafhaNisriniyya (TAGS: ...,PPE)`
+* `0808IbnKhaldun.Rihla (TAGS: ...,GEO,PPE)`
 * `0808IbnKhaldun.Tarikh (TAGS: CHR,PPE)`
 * `0809IbnQunfudh.Wafayat (TAGS: ...,PPE)`
 * `0812CaliKhazraji.CuqudLuluiyya (TAGS: ...,PPE)`
+* `0816AbuBakrMaraghi.Mashyakha (TAGS: ...,PPE)`
 * `0817IbnYacqubFiruzabadi.BulghaFiTarajim (TAGS: ...,PPE)`
+* `0825IbnQasimSabti.IkhtisarAkhbar (TAGS: ...,PPE)`
 * `0826IbnCiraqi.TuhfaTahsil (TAGS: ...,PPE)`
 * `0832AbuTayyibFasi.DhaylTaqyid (TAGS: ...,PPE)`
 * `0832AbuTayyibFasi.ShifaGharam (TAGS: ...,PPE)`
@@ -29,6 +33,7 @@
 * `0852IbnHajarCasqalani.TacjilManfaca (TAGS: ...,PPE)`
 * `0852IbnHajarCasqalani.TahdhibTahdhib (TAGS: ...,PPE)`
 * `0852IbnHajarCasqalani.TaqribTahdhib (TAGS: ...,PPE)`
+* `0854IbnDiyaMakki.TarikhMakka (TAGS: ...,PPE)`
 * `0855Cayni.CiqdJuman (TAGS: ...,PPE)`
 * `0855Cayni.CumdaQari (TAGS: ...,PPE)`
 * `0855Cayni.MaghaniAkhyar (TAGS: ...,PPE)`
