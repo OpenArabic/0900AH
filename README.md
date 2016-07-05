@@ -1,4 +1,4 @@
-# 0900AH [[ [Re]generated on 2016-05-21 (19:21:33) ]]
+# 0900AH [[ [Re]generated on 2016-07-05 (16:25:34) ]]
 
 * `0804IbnMulaqqin.TabaqatAwliya (TAGS: CENT0900,PPE,_TABAQAT,_TARAJIM,_TARIKH,_WAFAYAT)`
 * `0806IbnHusaynCiraqi.DhaylMizan (TAGS: BIO,CENT0900,PPE,_HADITH,_TABAQAT,_TARAJIM)`
@@ -14,6 +14,7 @@
 * `0821Qalqashandi.SubhAcsha (TAGS: CENT0900,_ADAB,_ADAD,_BALAGHA,_CARUD,_KITABA)`
 * `0821ShihabDinQalqashandi.Maathir (TAGS: CENT0900,_MISC,_QADA,_SIYASA)`
 * `0825IbnQasimSabti.IkhtisarAkhbar (TAGS: CENT0900,PPE,_BULDAN,_JUGHRAFIYA,_RIHLAT)`
+* `0826IbnCiraqi.Mudallisin (TAGS: CENT0900,_TABAQAT,_TARAJIM)`
 * `0826IbnCiraqi.TuhfaTahsil (TAGS: CENT0900,PPE,_HADITH,_TABAQAT,_TARAJIM)`
 * `0832AbuTayyibFasi.DhaylTaqyid (TAGS: CENT0900,PPE,_FAHARIS,_KUTUB,_TABAQAT,_TARAJIM)`
 * `0832AbuTayyibFasi.ShifaGharam (TAGS: CENT0900,PPE,_TARIKH)`
@@ -38,6 +39,7 @@
 * `0852IbnHajarCasqalani.TabaqatMudallisin (TAGS: BIO,CENT0900,COL,PPE,_HADITH,_SUNNI,_TARAJIM)`
 * `0852IbnHajarCasqalani.TabsirMuntabih (TAGS: CENT0900,PPE,_HADITH,_TABAQAT,_TARAJIM)`
 * `0852IbnHajarCasqalani.TacjilManfaca (TAGS: CENT0900,PPE,_HADITH,_SUNNI,_TABAQAT,_TARAJIM)`
+* `0852IbnHajarCasqalani.TacrifAhlTaqbis (TAGS: CENT0900,_TABAQAT,_TARAJIM)`
 * `0852IbnHajarCasqalani.TahdhibTahdhib (TAGS: CENT0900,PPE,_HADITH,_SUNNI,_TABAQAT,_TARAJIM)`
 * `0852IbnHajarCasqalani.TaqribTahdhib (TAGS: CENT0900,PPE,_HADITH,_SUNNI,_TABAQAT,_TARAJIM)`
 * `0854IbnCarabshah.CajaibMaqdur (TAGS: CENT0900,_TARAJIM,_TARIKH)`
