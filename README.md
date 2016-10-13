@@ -1,14 +1,14 @@
 ## Status Report
  
 * 85 titles
-* 50,775,900 words
-* 254,705 logical units
+* 50,775,878 words
+* 254,589 logical units
 * 56,798 bios
 
-### `*.inProgress` (25 titles: 19,094,470 words; 83,964 units; 0 bios)
+### `*.inProgress` (25 titles: 19,094,448 words; 83,848 units; 0 bios)
 
 - `0230IbnSacd.TabaqatKubra (920,980 words; 6,386 units; 0 bios)`
-- `0255Jahiz.Hayawan (456,503 words; 3,357 units; 0 bios)`
+- `0255Jahiz.Hayawan (456,481 words; 3,241 units; 0 bios)`
 - `0256Bukhari.TarikhKabir (519,629 words; 15,061 units; 0 bios)`
 - `0276IbnQutaybaDinawari.CuyunAkhbar (232,763 words; 310 units; 0 bios)`
 - `0282AbuHanifaDinawari.AkhbarTiwal  (93,184 words; 858 units; 0 bios)`
@@ -104,7 +104,7 @@
 
 
 
-# 0900AH [[ [Re]generated on 2016-10-13 (10:34:22) ]]
+# 0900AH [[ [Re]generated on 2016-10-13 (12:37:14) ]]
 
 * `0804IbnMulaqqin.TabaqatAwliya (TAGS: CENT0900, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
 * `0806IbnHusaynCiraqi.DhaylMizan (TAGS: BIO, CENT0900, PPE, _HADITH, _TABAQAT, _TARAJIM)`
@@ -154,6 +154,7 @@
 * `0855Cayni.CiqdJuman (TAGS: CENT0900, PPE, _TARIKH)`
 * `0855Cayni.CumdaQari (TAGS: CENT0900, PPE, _FIQH, _HADITH, _SHARH, _SUNNI, _TARAJIM)`
 * `0855Cayni.MaghaniAkhyar (TAGS: CENT0900, PPE, _HADITH, _TABAQAT, _TARAJIM)`
+* `0855Cayni.SharhSunanAbiDawud (TAGS: CENT0900, _HADITH, _SHARH)`
 * `0862IbnMuhammadMujari.Barnamaj (TAGS: CENT0900, _ADILLA, _FAHARIS, _KUTUB)`
 * `0871IbnFahdMakki.LahzAlhaz (TAGS: BIO, CENT0900, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
 * `0874IbnTaghribirdi.HawadithDahriya (TAGS: CENT0900, PPE, _TARIKH)`
