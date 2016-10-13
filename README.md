@@ -106,7 +106,7 @@
 
 
 
-# 0900AH [[ [Re]generated on 2016-10-13 (13:30:06) ]]
+# 0900AH [[ [Re]generated on 2016-10-14 (00:22:56) ]]
 
 * `0804IbnMulaqqin.TabaqatAwliya (TAGS: CENT0900, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
 * `0804IbnMulaqqin.TuhfaMuhtaj (TAGS: CENT0900, _FIQH, _HADITH, _TAKHRIJ, _TARAJIM)`
@@ -118,6 +118,8 @@
 * `0809IbnQunfudh.Wafayat (TAGS: CENT0900, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
 * `0812CaliKhazraji.CuqudLuluiyya (TAGS: CENT0900, PPE, _TARIKH)`
 * `0816AbuBakrMaraghi.Mashyakha (TAGS: CENT0900, PPE, _AJZA, _HADITH)`
+* `0817Firuzabadi.QamusMuhit (TAGS: CENT0900, _FIQH, _GHARIB, _LUGHA, _MACAJIM, _MUSTALAHAT, _NAHW, _SARF)`
+* `0817Firuzabadi.TanwirMiqbas (TAGS: CENT0100, CENT0900, _CHRONOMULTIPLE, _CULUM, _QURAN, _SUNNI, _TAFSIR)`
 * `0817IbnYacqubFiruzabadi.BulghaFiTarajim (TAGS: CENT0900, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
 * `0821Qalqashandi.Maathir (TAGS: CENT0900, _MISC, _QADA, _SIYASA)`
 * `0821Qalqashandi.NihayaArab (TAGS: CENT0900, PPE, _ANSAB)`
