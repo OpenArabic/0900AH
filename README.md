@@ -106,12 +106,13 @@
 
 
 
-# 0900AH [[ [Re]generated on 2016-10-16 (15:13:25) ]]
+# 0900AH [[ [Re]generated on 2016-10-16 (23:19:53) ]]
 
 * `0804IbnMulaqqin.BadrMunir (TAGS: CENT0900, _HADITH, _TAKHRIJ, _TARAJIM)`
 * `0804IbnMulaqqin.TabaqatAwliya (TAGS: CENT0900, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
 * `0804IbnMulaqqin.TuhfaMuhtaj (TAGS: CENT0900, _FIQH, _HADITH, _TAKHRIJ, _TARAJIM)`
 * `0806IbnHusaynCiraqi.DhaylMizan (TAGS: BIO, CENT0900, PPE, _HADITH, _TABAQAT, _TARAJIM)`
+* `0806IbnHusaynCiraqi.TarhTarthib (TAGS: CENT0900, _HADITH, _SHARH, _TARAJIM)`
 * `0807IbnAhmarKhazraji.NafhaNisriniyya (TAGS: CENT0900, PPE, _BULDAN, _TARIKH)`
 * `0808IbnKhaldun.Rihla (TAGS: CENT0900, GEO, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT)`
 * `0808IbnKhaldun.Tarikh (TAGS: CENT0900, CHR, PPE, _MISC, _TARIKH)`
