@@ -106,8 +106,9 @@
 
 
 
-# 0900AH [[ [Re]generated on 2016-10-14 (00:34:45) ]]
+# 0900AH [[ [Re]generated on 2016-10-16 (15:13:25) ]]
 
+* `0804IbnMulaqqin.BadrMunir (TAGS: CENT0900, _HADITH, _TAKHRIJ, _TARAJIM)`
 * `0804IbnMulaqqin.TabaqatAwliya (TAGS: CENT0900, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
 * `0804IbnMulaqqin.TuhfaMuhtaj (TAGS: CENT0900, _FIQH, _HADITH, _TAKHRIJ, _TARAJIM)`
 * `0806IbnHusaynCiraqi.DhaylMizan (TAGS: BIO, CENT0900, PPE, _HADITH, _TABAQAT, _TARAJIM)`
@@ -131,6 +132,7 @@
 * `0832AbuTayyibFasi.DhaylTaqyid (TAGS: CENT0900, PPE, _FAHARIS, _KUTUB, _TABAQAT, _TARAJIM)`
 * `0832AbuTayyibFasi.ShifaGharam (TAGS: CENT0900, PPE, _TARIKH)`
 * `0833IbnJazari.GhayaNihaya (TAGS: CENT0900, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
+* `0833IbnJazari.ZahrFaih (TAGS: CENT0900, PPE, _ADAB, _ADHKAR, _RAQAIQ, _TARAJIM, _TARIKH)`
 * `0842IbnNasirDinDimashqi.RaddWafir (TAGS: CENT0900, PPE, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0842IbnNasirDinDimashqi.TawdihMushtabih (TAGS: CENT0900, PPE, _HADITH, _TABAQAT, _TARAJIM)`
 * `0845Maqrizi.Bayan (TAGS: CENT0900, _BULDAN, _TARIKH)`
