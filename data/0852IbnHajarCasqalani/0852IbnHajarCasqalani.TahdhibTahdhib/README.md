@@ -12,8 +12,7 @@ Numbering of biographies are sometimes doubled.
 
 4. Add any comments on the text
 
-Type your response here
-
-5. ...
+124 biographies missing, pdf: 12405, text: 12281
+5. duration: 5h
 
 Comments by : [Leonie Nueckell]
