@@ -110,7 +110,7 @@
 
 
 
-# 0900AH [[ [Re]generated on 2016-10-23 (13:19:17) ]]
+# 0900AH [[ [Re]generated on 2016-10-24 (20:10:57) ]]
 
 * `0802IbnMusaAbnasi.ShadhaFayyah (TAGS: CENT0900, _CULUM, _HADITH, _MUSTALAHAT)`
 * `0804IbnMulaqqin.BadrMunir (TAGS: CENT0900, _HADITH, _TAKHRIJ, _TARAJIM)`
@@ -147,6 +147,7 @@
 * `0825IbnQasimSabti.IkhtisarAkhbar (TAGS: CENT0900, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT)`
 * `0826IbnCiraqi.Mudallisin (TAGS: CENT0900, _TABAQAT, _TARAJIM)`
 * `0826IbnCiraqi.TuhfaTahsil (TAGS: CENT0900, PPE, _HADITH, _TABAQAT, _TARAJIM)`
+* `0828IbnCinaba.CumdatTalib (TAGS: CENT0900, PPE, GEN, _HADITH, _SHICI)`
 * `0832AbuTayyibFasi.DhaylTaqyid (TAGS: CENT0900, PPE, _FAHARIS, _KUTUB, _TABAQAT, _TARAJIM)`
 * `0832AbuTayyibFasi.ShifaGharam (TAGS: CENT0900, PPE, _TARIKH)`
 * `0833IbnJazari.Cawali (TAGS: CENT0900, _HADITH, _MAKHTUTAT)`
@@ -191,10 +192,11 @@
 * `0852IbnHajarCasqalani.TaqribTahdhib (TAGS: CENT0900, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM)`
 * `0854IbnCarabshah.CajaibMaqdur (TAGS: CENT0900, _TARAJIM, _TARIKH)`
 * `0854IbnDiyaMakki.TarikhMakka (TAGS: CENT0900, PPE, _BULDAN, _TARIKH)`
-* `0855Cayni.CiqdJuman (TAGS: CENT0900, PPE, _TARIKH)`
-* `0855Cayni.CumdaQari (TAGS: CENT0900, PPE, _FIQH, _HADITH, _SHARH, _SUNNI, _TARAJIM)`
-* `0855Cayni.MaghaniAkhyar (TAGS: CENT0900, PPE, _HADITH, _TABAQAT, _TARAJIM)`
-* `0855Cayni.SharhSunanAbiDawud (TAGS: CENT0900, _HADITH, _SHARH)`
+* `0855BadrDinCayni.BinayaSharhHidaya (TAGS: CENT0900, _FIQH, _HANAFI)`
+* `0855BadrDinCayni.CiqdJuman (TAGS: CENT0900, PPE, _TARIKH)`
+* `0855BadrDinCayni.CumdatQari (TAGS: CENT0900, PPE, _FIQH, _HADITH, _SHARH, _SUNNI, _TARAJIM)`
+* `0855BadrDinCayni.MaghaniAkhyar (TAGS: CENT0900, PPE, _HADITH, _TABAQAT, _TARAJIM)`
+* `0855BadrDinCayni.SharhSunanAbiDawud (TAGS: CENT0900, _HADITH, _SHARH)`
 * `0862IbnMuhammadMujari.Barnamaj (TAGS: CENT0900, _ADILLA, _FAHARIS, _KUTUB)`
 * `0871IbnFahdMakki.LahzAlhaz (TAGS: BIO, CENT0900, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
 * `0874IbnTaghribirdi.HawadithDahriya (TAGS: CENT0900, PPE, _TARIKH)`
