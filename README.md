@@ -138,7 +138,7 @@
 
 
 
-# 0900AH [[ [Re]generated on 2016-12-10 (14:09:52) ]]
+# 0900AH [[ [Re]generated on 2016-12-10 (20:36:52) ]]
 
 * `0802IbnMusaAbnasi.ShadhaFayyah (TAGS: CENT0900, _CULUM, _HADITH, _MUSTALAHAT)`
 * `0803BahaDinNajafi.MuntakhabAnwar (TAGS: CENT0900, _CAQAID, _SHICI, _TWELVERS)`
@@ -199,6 +199,7 @@
 * `0833IbnJazari.TahbirTaysir (TAGS: CENT0900, _CULUM, _QURAN, _TAFSIR)`
 * `0833IbnJazari.TamhidFiCulumTajwid (TAGS: CENT0900, _CULUM, _QURAN)`
 * `0833IbnJazari.ZahrFaih (TAGS: CENT0900, PPE, _ADAB, _ADHKAR, _RAQAIQ, _TARAJIM, _TARIKH)`
+* `0838ShihabDinDalji.Falaka (TAGS: CENT0900, _ADAB, _BALAGHA)`
 * `0840IbnWazirYamani.CawasimWaQawasim (TAGS: CENT0900, _CAQAID)`
 * `0840IbnWazirYamani.ItharHaqq (TAGS: CENT0900, _CAQAID, _MILAL, _RUDUD)`
 * `0840IbnWazirYamani.RawdBasim (TAGS: CENT0900, _CAQAID)`
@@ -219,6 +220,7 @@
 * `0845Maqrizi.Suluk (TAGS: CENT0900, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
 * `0845Maqrizi.TajridTawhid (TAGS: CENT0900, _CAQAID)`
 * `0848IbnSarrajAndalusi.Fatawa (TAGS: CENT0900, _FATAWA)`
+* `0850ShihabDinIbshihi.Mustatraf (TAGS: CENT0900, _ADAB, _ADAB, _BALAGHA, _QISAS, _TARAIF)`
 * `0851IbnQadiShuhba.TabaqatShaficiya (TAGS: BIO, CENT0900, COL, PPE, _FIQH, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0852IbnHajarCasqalani.AhadithCashara (TAGS: CENT0900, _AJZA, _HADITH)`
 * `0852IbnHajarCasqalani.AmaliAdhkarFiFadlSalatTasbih (TAGS: CENT0900, _AJZA, _HADITH)`
