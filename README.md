@@ -138,13 +138,17 @@
 
 
 
-# 0900AH [[ [Re]generated on 2016-12-07 (01:57:28) ]]
+# 0900AH [[ [Re]generated on 2016-12-10 (14:09:52) ]]
 
 * `0802IbnMusaAbnasi.ShadhaFayyah (TAGS: CENT0900, _CULUM, _HADITH, _MUSTALAHAT)`
 * `0803BahaDinNajafi.MuntakhabAnwar (TAGS: CENT0900, _CAQAID, _SHICI, _TWELVERS)`
+* `0803IbnCarafaWarghami.MukhtasarFiMantiq (TAGS: CENT0900, _MISC)`
+* `0803IbnCarafaWarghami.Tafsir (TAGS: CENT0900, _CULUM, _QURAN, _TAFSIR)`
+* `0803IbnCarafaWarghami.Tafsir (TAGS: CENT0900, _TAFSIR)`
 * `0804IbnMulaqqin.BadrMunir (TAGS: CENT0900, _HADITH, _TAKHRIJ, _TARAJIM)`
 * `0804IbnMulaqqin.TabaqatAwliya (TAGS: CENT0900, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
 * `0804IbnMulaqqin.TuhfaMuhtaj (TAGS: CENT0900, _FIQH, _HADITH, _TAKHRIJ, _TARAJIM)`
+* `0805SirajDinBulqini.MuqaddimatIbnSalah (TAGS: CENT0900, _CULUM, _HADITH)`
 * `0806IbnHusaynCiraqi.Alfiyya (TAGS: CENT0900, _CULUM, _HADITH)`
 * `0806IbnHusaynCiraqi.AlfiyyatSira (TAGS: CENT0900, _SHAMAIL, _SIRA)`
 * `0806IbnHusaynCiraqi.ArbacunaCushariyya (TAGS: CENT0900, _AJZA, _HADITH, _SUNNI, _TARAJIM)`
@@ -276,9 +280,6 @@
 * `0855BadrDinCayni.CumdatQari (TAGS: CENT0900, PPE, _FIQH, _HADITH, _SHARH, _SUNNI, _TARAJIM)`
 * `0855BadrDinCayni.MaghaniAkhyar (TAGS: CENT0900, PPE, _HADITH, _TABAQAT, _TARAJIM)`
 * `0855BadrDinCayni.SharhSunanAbiDawud (TAGS: CENT0900, _HADITH, _SHARH)`
-* `0855BurhanDinBiqaci.MasacidNazar (TAGS: CENT0900, _CULUM, _QURAN)`
-* `0855BurhanDinBiqaci.MasracTasawwuf (TAGS: CENT0900, _CAQAID, _FIRAQ, _MILAL)`
-* `0855BurhanDinBiqaci.NazmDurar (TAGS: CENT0900, _CULUM, _QURAN, _TAFSIR)`
 * `0862IbnMuhammadMujari.Barnamaj (TAGS: CENT0900, _ADILLA, _FAHARIS, _KUTUB)`
 * `0871IbnFahdMakki.LahzAlhaz (TAGS: BIO, CENT0900, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
 * `0874IbnTaghribirdi.HawadithDahriya (TAGS: CENT0900, PPE, _TARIKH)`
@@ -293,6 +294,10 @@
 * `0884SibtIbnCajami.KashfHathith (TAGS: CENT0900, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM)`
 * `0884SibtIbnCajami.KunuzDhahab (TAGS: CENT0900, PPE, _TABAQAT, _TARAJIM)`
 * `0884SibtIbnCajami.TabyinLiAsma (TAGS: CENT0900, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM)`
+* `0885BurhanDinBiqaci.MasacidNazar (TAGS: CENT0900, _CULUM, _QURAN)`
+* `0885BurhanDinBiqaci.MasracTasawwuf (TAGS: CENT0900, _CAQAID, _FIRAQ, _MILAL)`
+* `0885BurhanDinBiqaci.NazmDurar (TAGS: CENT0900, _CULUM, _QURAN, _TAFSIR)`
+* `0885BurhanDinBiqaci.NukatWafiyya (TAGS: _CENT00NO, _CULUM, _HADITH)`
 * `0893IbnAbiBakrHadari.BahjatMahafil (TAGS: CENT0900, PPE, _SHAMAIL, _SIRA)`
 * `0900AbuCabdAllahHimyari.RawdMictar (TAGS: CENT0900, COL, GEO, PPE, _BULDAN, _GHARIB, _JUGHRAFIYA, _MACAJIM, _MUSTALAHAT, _RIHLAT)`
 
