@@ -138,7 +138,7 @@
 
 
 
-# 0900AH [[ [Re]generated on 2016-12-10 (20:36:52) ]]
+# 0900AH [[ [Re]generated on 2017-01-04 (15:09:51) ]]
 
 * `0802IbnMusaAbnasi.ShadhaFayyah (TAGS: CENT0900, _CULUM, _HADITH, _MUSTALAHAT)`
 * `0803BahaDinNajafi.MuntakhabAnwar (TAGS: CENT0900, _CAQAID, _SHICI, _TWELVERS)`
@@ -301,6 +301,7 @@
 * `0885BurhanDinBiqaci.NazmDurar (TAGS: CENT0900, _CULUM, _QURAN, _TAFSIR)`
 * `0885BurhanDinBiqaci.NukatWafiyya (TAGS: _CENT00NO, _CULUM, _HADITH)`
 * `0893IbnAbiBakrHadari.BahjatMahafil (TAGS: CENT0900, PPE, _SHAMAIL, _SIRA)`
+* `0894CabdRahmanSufuri.NuzhatMajalis (TAGS: CENT0900, _ADAB, _ADAB, _ADHKAR, _QISAS, _RAQAIQ, _TARAIF)`
 * `0900AbuCabdAllahHimyari.RawdMictar (TAGS: CENT0900, COL, GEO, PPE, _BULDAN, _GHARIB, _JUGHRAFIYA, _MACAJIM, _MUSTALAHAT, _RIHLAT)`
 
 
