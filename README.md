@@ -77,8 +77,8 @@
 - `0466CabdAzizKattani.DhaylTarikhMawlidCulama (18,115 words; 463 units; 0 bios)`
 - `0476AbuIshaqShirazi.TabaqatFuqaha (30,392 words; 508 units; 0 bios)`
 - `0482AbuIshaqHabbal.WafayatMisriyyin (6,616 words; 497 units; 0 bios)`
-- `0521IbnAbiYacla.TabaqatHanabila (169,947 words; 880 units; 0 bios)`
 - `0524IbnAkfani.DhaylDhaylTarikhMawlidCulama (4,082 words; 84 units; 0 bios)`
+- `0526IbnAbiYacla.TabaqatHanabila (169,947 words; 880 units; 0 bios)`
 - `0544CiyadIbnMusaYahsubi.TartibMadarik (320,968 words; 1,177 units; 0 bios)`
 - `0555IbnQalanisi.Tarikh (120,986 words; 157 units; 0 bios)`
 - `0565IbnZaydBayhaqi.TarikhBayhaq (121,031 words; 299 units; 0 bios)`
@@ -140,7 +140,7 @@
 
 
 
-# 0900AH [[ [Re]generated on 2017-01-08 (17:58:22) ]]
+# 0900AH [[ [Re]generated on 2017-01-22 (16:18:08) ]]
 
 * `0802IbnMusaAbnasi.ShadhaFayyah (TAGS: CENT0900, _CULUM, _HADITH, _MUSTALAHAT)`
 * `0803BahaDinNajafi.MuntakhabAnwar (TAGS: CENT0900, _CAQAID, _SHICI, _TWELVERS)`
@@ -195,9 +195,18 @@
 * `0821Qalqashandi.QalaidJuman (TAGS: CENT0900, PPE, _ANSAB, _BULDAN, _TARIKH)`
 * `0821Qalqashandi.SubhAcsha (TAGS: CENT0900, _ADAB, _ADAB, _BALAGHA, _CARUD, _KITABA)`
 * `0825IbnQasimSabti.IkhtisarAkhbar (TAGS: CENT0900, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT)`
+* `0826IbnCabdAllahSuyuri.NadadQawacid (TAGS: CENT0900, _FIQH, _MUSTALAHAT)`
 * `0826IbnCiraqi.Mudallisin (TAGS: CENT0900, _TABAQAT, _TARAJIM)`
 * `0826IbnCiraqi.TuhfaTahsil (TAGS: CENT0900, PPE, _HADITH, _TABAQAT, _TARAJIM)`
+* `0827BadrDinDamaminiMakhzumi.CuyunGhamiza (TAGS: _ADAB, _BALAGHA)`
 * `0828IbnCinaba.CumdatTalib (TAGS: CENT0900, PPE, GEN, _HADITH, _SHICI)`
+* `0829IbnMuhammadGharnatiQaysi.HadaiqAzahir (TAGS: CENT0900, _ADAB, _BALAGHA)`
+* `0829IbnMuhammadGharnatiQaysi.TuhfatHukkam (TAGS: CENT0900, _QADA, _SIYASA)`
+* `0829TaqiDinDimashqiHisni.DafcShubh (TAGS: CENT0900, _CAQAID, _MILAL, _RUDUD)`
+* `0829TaqiDinDimashqiHisni.DafcShubh (TAGS: CENT0900, _IMAM, _NABI, _SIRA)`
+* `0829TaqiDinDimashqiHisni.KifayatAkhyar (TAGS: CENT0900, _FIQH, _SHAFICI)`
+* `0830IbnMuhammadBasiliTunisi.NukatWaTanbihat (TAGS: CENT0900, _TAFSIR)`
+* `0830IbnSulaymanHilli.MukhtasarBasair (TAGS: CENT0900, _HADITH, _SHICI)`
 * `0832AbuTayyibFasi.DhaylTaqyid (TAGS: CENT0900, PPE, _FAHARIS, _KUTUB, _TABAQAT, _TARAJIM)`
 * `0832AbuTayyibFasi.ShifaGharam (TAGS: CENT0900, PPE, _TARIKH)`
 * `0833IbnJazari.Cawali (TAGS: CENT0900, _HADITH, _MAKHTUTAT)`
@@ -214,6 +223,10 @@
 * `0833IbnJazari.TamhidFiCulumTajwid (TAGS: CENT0900, _CULUM, _QURAN)`
 * `0833IbnJazari.ZahrFaih (TAGS: CENT0900, PPE, _ADAB, _ADHKAR, _RAQAIQ, _TARAJIM, _TARIKH)`
 * `0834IbnHamzaFanari.MisbahUns (TAGS: CENT0900, _CIRFAN, _FALSAFA, _MANTIQ)`
+* `0837IbnCaliIbnHijjaHamawi.BulughAmal (TAGS: CENT0900, _ADAB, _BALAGHA, _MISC)`
+* `0837IbnCaliIbnHijjaHamawi.KhizanatAdab (TAGS: CENT0900, _ADAB, _ADAB, _BALAGHA, _QISAS, _TARAIF)`
+* `0837IbnCaliIbnHijjaHamawi.TayyibMadhaq (TAGS: CENT0900, _ADAB, _QISAS, _TARAIF)`
+* `0837IbnCaliIbnHijjaHamawi.ThamaratAwraq (TAGS: CENT0900, _ADAB, _BALAGHA)`
 * `0838ShihabDinDalji.Falaka (TAGS: CENT0900, _ADAB, _BALAGHA)`
 * `0840IbnWazirYamani.CawasimWaQawasim (TAGS: CENT0900, _CAQAID)`
 * `0840IbnWazirYamani.ItharHaqq (TAGS: CENT0900, _CAQAID, _MILAL, _RUDUD)`
@@ -301,12 +314,18 @@
 * `0852IbnHajarCasqalani.WuqufCalaMawquf (TAGS: CENT0900, _CULUM, _HADITH, _MUSTALAHAT)`
 * `0852IbnHajarCasqalani.ZahrNadirFiHalKhadir (TAGS: CENT0900, _AJZA, _BUHUTH, _HADITH, _MASAIL, _TARAJIM)`
 * `0854IbnCarabshah.CajaibMaqdur (TAGS: CENT0900, _TARAJIM, _TARIKH)`
+* `0854IbnCarabshah.FakihatKhulafa (TAGS: CENT0900, _ADAB, _QADA, _QISAS, _SIYASA, _TARAIF)`
+* `0854IbnCarabshah.MarzubanNamah (TAGS: _ADAB, _BALAGHA)`
+* `0854IbnDiyaMakki.Juz (TAGS: CENT0900, _HADITH, _MAKHTUTAT)`
 * `0854IbnDiyaMakki.TarikhMakka (TAGS: CENT0900, PPE, _BULDAN, _TARIKH)`
 * `0855BadrDinCayni.BinayaSharhHidaya (TAGS: CENT0900, _FIQH, _HANAFI)`
 * `0855BadrDinCayni.CiqdJuman (TAGS: CENT0900, PPE, _TARIKH)`
 * `0855BadrDinCayni.CumdatQari (TAGS: CENT0900, PPE, _FIQH, _HADITH, _SHARH, _SUNNI, _TARAJIM)`
 * `0855BadrDinCayni.MaghaniAkhyar (TAGS: CENT0900, PPE, _HADITH, _TABAQAT, _TARAJIM)`
 * `0855BadrDinCayni.SharhSunanAbiDawud (TAGS: CENT0900, _HADITH, _SHARH)`
+* `0855IbnSabbaghMakki.FusulMuhimma (TAGS: CENT0900, _IMAM, _NABI, _SIRA)`
+* `0855IbnTayyFaqacani.DurrMandud (TAGS: CENT0900, _AFTER800, _FIQH, _SHICI)`
+* `0855ShamsDinDikunquz.SharhCalaMarahArwah (TAGS: CENT0900, _NAHW, _SARF)`
 * `0857MuhibbDinNuwayri.SharhTayyibatNashr (TAGS: CENT0900, _QIRAAT, _QURAN, _TAJWID)`
 * `0862IbnMuhammadMujari.Barnamaj (TAGS: CENT0900, _ADILLA, _FAHARIS, _KUTUB)`
 * `0871IbnFahdMakki.LahzAlhaz (TAGS: BIO, CENT0900, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
